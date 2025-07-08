@@ -12,3 +12,4 @@ This project showcases a dynamic Excel-based financial analytics dashboard. It i
 * Custom slicers and filtering with insightful KPI breakdowns by Supervisor, Salesperson & Manager.
 * Fully formatted and professionally designed workbook with 8+ dashboards.
 
+   https://github.com/engrAbid/Data-Analysis---Employee-Database/edit/main/README.md
